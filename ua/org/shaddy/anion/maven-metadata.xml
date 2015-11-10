@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <metadata>
-  <groupId>ua.org.shaddy.anion</groupId>
+  <groupId>ua.org.shaddy</groupId>
   <artifactId>anion</artifactId>
   <versioning>
     <versions>
       <version>1.0.1-SNAPSHOT</version>
     </versions>
-    <lastUpdated>20151110160843</lastUpdated>
+    <lastUpdated>20151110164149</lastUpdated>
   </versioning>
 </metadata>
