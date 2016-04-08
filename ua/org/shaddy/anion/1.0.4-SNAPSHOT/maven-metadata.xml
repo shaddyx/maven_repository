@@ -2,13 +2,12 @@
 <metadata>
   <groupId>ua.org.shaddy</groupId>
   <artifactId>anion</artifactId>
+  <version>1.0.4-SNAPSHOT</version>
   <versioning>
-    <versions>
-      <version>1.0.1-SNAPSHOT</version>
-      <version>1.0.2-SNAPSHOT</version>
-      <version>1.0.3-SNAPSHOT</version>
-      <version>1.0.4-SNAPSHOT</version>
-    </versions>
+    <snapshot>
+      <timestamp>20160408.081225</timestamp>
+      <buildNumber>1</buildNumber>
+    </snapshot>
     <lastUpdated>20160408081225</lastUpdated>
   </versioning>
 </metadata>
