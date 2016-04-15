@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <groupId>ua.org.shaddy</groupId>
+  <artifactId>anion</artifactId>
+  <version>1.0.10-SNAPSHOT</version>
+  <versioning>
+    <snapshot>
+      <timestamp>20160415.161628</timestamp>
+      <buildNumber>1</buildNumber>
+    </snapshot>
+    <lastUpdated>20160415161628</lastUpdated>
+  </versioning>
+</metadata>
